@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
+
 <channel>
-	<title>
-	Comentários para Ganho ao Cubo	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<title>Portfolio &#8211; Ganho ao Cubo</title>
+	<atom:link href="/astra-portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Marketing Digital Descomplicado</description>
 	<lastBuildDate>Tue, 13 Apr 2021 22:32:13 +0000</lastBuildDate>
+	<language>pt-PT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -24,5 +26,5 @@
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: ganhoaocubo.com @ 2021-04-14 15:17:08 by W3 Total Cache
+Served from: ganhoaocubo.com @ 2021-04-14 15:19:44 by W3 Total Cache
 -->
